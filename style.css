@@ -1,3 +1,10 @@
 .externel-css{
     color: yellow;
 }
+.div {
+    background-color: white;
+    width: 100px;
+    border: 10px solid green;
+    padding: 30px;
+    margin: 100px;
+  }
